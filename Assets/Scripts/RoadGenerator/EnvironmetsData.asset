@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6233b225c4fdca546bc6e7189fd4bf43, type: 3}
+  m_Name: EnvironmetsData
+  m_EditorClassIdentifier: 
+  cubePickup: {fileID: 3516777905091653031, guid: 085ad57d0f0d5924f8ec77fd5eeb27f9,
+    type: 3}
+  obstaclePrefab:
+  - {fileID: 25117503280187114, guid: 1a13e30ae20f7c6498ac6c97beca91db, type: 3}
+  - {fileID: 1806561513643950025, guid: f186c6022a7327b4a97673f9dd547923, type: 3}
+  - {fileID: 1985117844049530269, guid: dbcb11682047f244296832b77c846e5c, type: 3}
+  - {fileID: 1624581578367231815, guid: aa543a69ef203dc44bb39282e902dacb, type: 3}
+  - {fileID: 1749183724393163525, guid: ea0d79497c6bdc64d816fb8ef1119af7, type: 3}
+  - {fileID: 5002834742047662093, guid: 87df6b1ca7683a54686d8e1e6a506d75, type: 3}
+  - {fileID: 6856075398894068104, guid: 71e2721dab5003e42aa7bddcfb9c8114, type: 3}
+  - {fileID: 7624635611951699423, guid: 65b6dbd3c610b154b9ef599a6f7f61fe, type: 3}
+  - {fileID: 531554710907294846, guid: d12ac5a737293ba4eab7fc899c8bff7e, type: 3}
+  - {fileID: 9123851057091935375, guid: 6b84ef04faa3e554b94583215fd0978e, type: 3}
